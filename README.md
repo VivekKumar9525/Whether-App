@@ -1,4 +1,4 @@
-# Whether App
+<!-- # Whether App
 Whether App is a simple weather application that provides users with current weather conditions for any location.
 
 ## Features
@@ -13,7 +13,7 @@ Whether App is a simple weather application that provides users with current wea
 - CSS
 - JavaScript
 
-## Deployment
+## Deployment -->
 
 The Whether App is deployed and can be accessed [here](https://vivekkumar9525.github.io/Whether-App/).
 
